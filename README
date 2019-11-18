@@ -1,5 +1,5 @@
 # promql
-In prometheus.yml
+In prometheus.yml it is possible to add any label ex: product, env, 
 ...
 ...
 - job_name: 'promotheus1-node1'
