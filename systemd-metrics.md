@@ -2,9 +2,11 @@
 
 # Add systemd collect options
 
-* node_exporter-0.18.1.linux-amd64/node_exporter --collector.systemd
+```
+node_exporter-0.18.1.linux-amd64/node_exporter --collector.systemd
+```
 
-It add # TYPE node_systemd_.+ queries
+* It add # TYPE node_systemd_.+ queries
 
 # Queries
 
