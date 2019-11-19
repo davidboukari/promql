@@ -1,4 +1,4 @@
-# systremd collect 
+# systemd collect 
 
 # Add systemd collect options  add the option --collector.systemd
 
